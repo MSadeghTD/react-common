@@ -7,6 +7,7 @@ import MainNavigation from './components/mainNavigation';
 import SecondaryNavigation from './components/secondaryNavigation';
 import Navigation from './components/navigation';
 import MainNav from './components/navigation/main';
+import SecondaryNav from './components/navigation/secondry';
 import PrivateRoute from './components/privateRoute';
 import SearchFilters from './components/searchFilters';
 import SearchInfo from './components/searchInfo';
@@ -38,6 +39,7 @@ export {
   DynamicTitle,
   MainNavigation,
   SecondaryNavigation,
+  SecondaryNav,
   PrivateRoute,
   SearchFilters,
   SearchInfo,
